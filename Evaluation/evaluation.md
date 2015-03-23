@@ -77,7 +77,7 @@ When discussing learnability be sure to take into consideration any **prior know
 
 Identifying prior knowledge will allow you to make evaluative comparisons, for instance:
 
-- The user said they previous used Outlook to keep track of bookings
+- The user said they previously used Outlook to keep track of bookings
 - As you can see from these screenshots I have based the user interface of the booking screen to match outlook so that can use existing knowledge
 
 ##Usability
@@ -95,7 +95,7 @@ If you have sections that are dependent on external factors such as Google APIs 
 Be sure to evidence your statements carefully.
 
 ##Improvements
-Finally you you provide **several suggestions** for future improvement to the system. These need not be based on your abilities as a programmer. Your suggestions should go beyong saying "finish the objectives I didn’t have time for". For instance, what else would you add to version 2.0 of your system?
+Finally you provide **several suggestions** for future improvement to the system. These need not be based on your abilities as a programmer. Your suggestions should go beyong saying "finish the objectives I didn’t have time for". For instance, what else would you add to version 2.0 of your system?
 
 Be sure to explain how some of your suggestions are related to user feedback.
 
